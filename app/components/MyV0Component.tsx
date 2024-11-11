@@ -1,9 +1,4 @@
-// you can overwrite this entire file with your v0 Component.
-// just copy and paste the "React" output over the entire file.
-
 import React from "react";
-
-
 import { Suspense } from 'react'
 
 async function getTenure() {
